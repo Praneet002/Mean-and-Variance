@@ -1,3 +1,7 @@
+# Ex No : 1
+
+# Date : 25/08/23
+
 #  Mean and variance of a discrete  distribution
 
 
